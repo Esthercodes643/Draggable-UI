@@ -1,21 +1,33 @@
 
-📄 Simple Drag-Reveal Component
-This project features a performance-optimized web component that uses a drag-and-swipe gesture to trigger a smooth transition between two background media elements.
+-------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>📄 Simple Drag-Reveal Component
 
-It's built primarily using GSAP (GreenSock Animation Platform) for the interactive dragging and visual transitions.
+
+
+---->This project features a performance-optimized web component that uses a drag-and-swipe gesture to trigger a smooth transition between two background media elements.
+
+
+
+---->It's built primarily using GSAP (GreenSock Animation Platform) for the interactive dragging and visual transitions.
+
+
 
 🚀 How to Run
-Save the files: Ensure you have the index.html, style.css, and script.js files saved in the same directory.
+*****************Save the files: Ensure you have the index.html, style.css, and script.js files saved in the same directory.
 
-Include Dependencies: The project requires GSAP and the Draggable plugin. Make sure your index.html includes these scripts from a CDN:
+*****************Include Dependencies: The project requires GSAP and the Draggable plugin. Make sure your index.html includes these scripts from a CDN:
 
 HTML
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/Draggable.min.js"></script>
-Open: Open index.html in your web browser.
+  ---> <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 
-Interact: Click and drag the handle at the bottom of the screen horizontally to see the media transition.
+  --> <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/Draggable.min.js"></script>
+
+
+
+
+  ***************Open: Open index.html in your web browser.
+
+**************Interact: Click and drag the handle at the bottom of the screen horizontally to see the media transition.
 
 ⚙️ Technologies Used
 GSAP (GreenSock): Used for smooth, physics-based dragging and declarative animations.
